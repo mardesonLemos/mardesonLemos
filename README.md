@@ -1,8 +1,8 @@
-# <img src="https://gifs.eco.br/wp-content/uploads/2022/02/animados-gifs-do-monkey-d-luffy-de-one-piece-0.gif" height="60px" /> Hi I'm Mardeson
+# <img src="https://3.bp.blogspot.com/-Hfl8VnSClYM/WDfdOeShmNI/AAAAAAAENwQ/Bv_xKtTjYsEoFul31Lp7shHA3DIoJUPUgCLcB/s1600/AS000901_17.gif" height="60px" /> Hi I'm Mardeson
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-<img src="https://gifs.eco.br/wp-content/uploads/2022/02/animados-gifs-do-monkey-d-luffy-de-one-piece-0.gif" height="35px" />OLÁ MUNDO, MEU NOME É MARDESON. SOU ESTUDANTE DE TECNOLOGIA E NO MOMENTO ESTOU ESTUDANDO EM UMA ESCOLA TECNICA.
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" />OLÁ MUNDO, MEU NOME É MARDESON. SOU ESTUDANTE DE TECNOLOGIA E NO MOMENTO ESTOU ESTUDANDO EM UMA ESCOLA TECNICA.
 </p>
 <p align="left">
 <h3><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="40px" /> LINGUAGENS E FERRAMENTAS :</h3>
